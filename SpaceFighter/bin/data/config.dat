@@ -1,0 +1,9 @@
+{
+class: com.dre.fingerinvader.utils.Config,
+params_:
+	{	
+		"total_stage":"15",
+		"dummy_key":"dummy_value",
+		
+	}
+}
