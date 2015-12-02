@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="15" tilewidth="32" tileheight="32" nextobjectid="12">
+ <tileset firstgid="1" source="dungeon.tsx"/>
+ <tileset firstgid="51" source="objects.tsx"/>
+ <layer name="BaseLayer" width="11" height="15">
+  <data encoding="base64" compression="zlib">
+   eJylkrEKgDAMRKMdjXSqjhU3//8HjUPgCGeKODySwCMNR6uI1A9MxmycL7WAuxjdUKjeP6zEdQ7olbgawP1sL7shcy/A/b8uvo9k9/YwsxyYP7oh1izfmBu6zdgSdhn/qcgNW6UMCA==
+  </data>
+ </layer>
+ <layer name="FunctionalLayer" width="11" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwWYDLQDqAQAKzQANQ==
+  </data>
+ </layer>
+</map>

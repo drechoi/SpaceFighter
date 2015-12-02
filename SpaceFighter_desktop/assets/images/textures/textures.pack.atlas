@@ -1,0 +1,97 @@
+
+textures.pack.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet_green
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bullet_red
+  rotate: false
+  xy: 662, 68
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+emeny01
+  rotate: false
+  xy: 2, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+emeny02
+  rotate: false
+  xy: 2, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship1_l
+  rotate: false
+  xy: 68, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship1_n
+  rotate: false
+  xy: 134, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship1_r
+  rotate: false
+  xy: 200, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship2_l
+  rotate: false
+  xy: 266, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship2_n
+  rotate: false
+  xy: 332, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship2_r
+  rotate: false
+  xy: 398, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship3_l
+  rotate: false
+  xy: 464, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship3_n
+  rotate: false
+  xy: 530, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship3_r
+  rotate: false
+  xy: 596, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
